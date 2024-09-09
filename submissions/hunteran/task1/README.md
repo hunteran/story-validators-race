@@ -24,7 +24,7 @@ As a programming enthusiast, I am eager to expand my knowledge and apply my skil
 - **Light node tia **My team has worked with two Celestia wallets:celestia1an2hdum5fjpjz7v0tqpunc44kw39jun5ms754f
 one of them has been lost,
 but I have an image of it: https://upanh.org/image/jaSGw3.
-- **Viper Network**:     
+- **viper Network**:     
 - [0G validator](https://dashboard.oneiricts.com/0g-chain/staking/0gvaloper135cf5hyk58vmvfxgqf6dp7wgzeszcds6hl39hc)
 - [Avail](5Gj9VRr2MRBczUj7YhEcL5YZykZUav46y9UGJyKYeedGpbZL)
 - Arichain(https://explorer.validatorvn.com/Airchains-Testnet/account/air1emvfykg0utaa6wnqw996thcz9uq26njwd34vhz)
