@@ -16,15 +16,15 @@ As a programming enthusiast, I am eager to expand my knowledge and apply my skil
 - Bandwidth guaranteed:	1 GBit/s
 - Traffic:	Unlimited *
 
-# Projects I'm involved with as a node runner and moderator:
+# Projects where I contribute as a node operator:
 
-- **Polymer Labs**: Building DAPP in Polymers  
-  - [Polymer Staking Gift Client]([https://github.com/pot4e/polymer-staking-gift-client](https://github.com/hunteran/testnet-challenge-3-template))
+- **Polymer Labs**: wallet 0xc3766850ecafbde95dec932c07ef1f8fa92530f6
+  - 
 
 - **Light node tia **My team has worked with two Celestia wallets:celestia1an2hdum5fjpjz7v0tqpunc44kw39jun5ms754f
 one of them has been lost,
 but I have an image of it: https://upanh.org/image/jaSGw3.
-- **Viper Network**: International moderator, testnet, node validator.    
+- **Viper Network**:     
 - [0G validator](https://dashboard.oneiricts.com/0g-chain/staking/0gvaloper135cf5hyk58vmvfxgqf6dp7wgzeszcds6hl39hc)
 - [Avail](5Gj9VRr2MRBczUj7YhEcL5YZykZUav46y9UGJyKYeedGpbZL)
 - Arichain(https://explorer.validatorvn.com/Airchains-Testnet/account/air1emvfykg0utaa6wnqw996thcz9uq26njwd34vhz)
